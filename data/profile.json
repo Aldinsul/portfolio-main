@@ -1,0 +1,37 @@
+{
+    "name": "Aldino Sultansyah - Student at POLINES",
+    "description": "An Electronics Engineering Technology student with a current GPA of 3.5/4.0, specializing in control systems and microcontrollers. I have a strong passion for developing IoT architectures, embedded systems, power electronics, and robotics. Adept at integrating hardware and software to design practical, innovative solutions for complex technical challenges.",
+    "profileImage": "images/profile.jpg",
+    "email": "aldinosultansyah02@gmail.com",
+    "phone": "+62 (81) 326-076240",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/aldino-sultansyah-588bbb383/"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Aldinsul"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/aldo_sult02"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+    {"name": "Control Systems", "icon": "fas fa-sliders", "level": 90},
+    {"name": "Microcontrollers", "icon": "fas fa-microchip", "level": 90},
+    {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+    {"name": "Embedded Systems", "icon": "fas fa-computer", "level": 90},
+	{"name": "Power Electronics", "icon": "fas fa-plug", "level": 85},
+    {"name": "Robotics", "icon": "fas fa-robot", "level": 85},
+	{"name": "Hardware Design", "icon": "fas fa-cube", "level": 90},
+	{"name": "C/C++ Programming", "icon": "fas fa-code", "level": 90},
+	{"name": "Electronics Engineering", "icon": "fas fa-bolt", "level": 90}
+    ]
+}

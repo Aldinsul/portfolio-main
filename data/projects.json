@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Joule Thief Circuit",
+        "year": "2023",
+        "fund": "free funded",
+        "partner": "individual project",
+        "role": "Solo Engineer",
+        "description": "Designed and built a step-up voltage converter circuit (Joule Thief) capable of powering a standard 220V AC lamp using only a low-voltage 1.5V to 3V DC battery. This project demonstrates practical electronics engineering skills in voltage conversion, circuit design, and maximizing energy efficiency from small power sources.",
+        "image": "images/project1.png",
+        "link": "#"
+    },
+    {
+        "title": "Gas Detector System",
+        "year": "2024",
+        "fund": "Rp100.000,- group project fund",
+        "partner": "Group project",
+        "role": "Electronic Designer",
+        "description": "Designed and built a functional gas detection system using an Arduino Nano, an MQ-135 gas sensor, a 16x2 LCD display, and LED indicators for real-time air quality monitoring. Developed to fulfill the final project requirements for the Microcontroller 1 course, this project served as a major milestone where I practically applied and learned Arduino programming (C/C++) and Assembly language for the very first time.",
+        "image": "images/gas-detector.png",
+        "link": "#"
+    },
+    {
+        "title": "Water level analog and digital sensor",
+        "year": "2024",
+        "fund": "Rp150.000,- group project fund",
+        "partner": "Group project",
+        "role": "Project Manager",
+        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "image": "images/project2.png",
+        "link": "https://example.com/smart-home"
+    },
+    {
+        "title": "Strairs climbing robot",
+        "year": "2024",
+        "fund": "Rp800.000,- Group project fund",
+        "partner": "Group project",
+        "role": "Head of electrical team",
+        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "image": "images/project2.png",
+        "link": "https://example.com/smart-home"
+    },
+     {
+        "title": "PID controller Water Level system",
+        "year": "2025",
+        "fund": "Rp1.000.000,- Group project fund",
+        "partner": "Group project",
+        "role": "PCB designer",
+        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "image": "images/project2.png",
+        "link": "https://example.com/smart-home"
+    },
+     {
+        "title": "AC electricity Smart meter",
+        "year": "2023",
+        "fund": "$100,000 Venture Capital",
+        "partner": "Tech Innovators Inc.",
+        "role": "Project Manager",
+        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "image": "images/project2.png",
+        "link": "https://example.com/smart-home"
+    }
+]

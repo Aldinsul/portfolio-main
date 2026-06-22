@@ -1,0 +1,16 @@
+[
+    {
+        "university": "State Polytechic of Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science in Electronics Engineering Technology",
+        "year": "2023 - NOW",
+        "description": "Currently GPA 3.5 of 4.0; An engineering technology student deeply interested in designing and developing innovative systems within the fields of IoT, embedded systems, power electronics, and robotics."
+    },
+    {
+        "university": "SMK Penerbangan Semarang",
+		"logo": "images/pnb-logo.png",
+        "major": "Aircraft Electrical Systems",
+        "year": "2020 - 2023",
+        "description": "During my studies at SMK Penerbangan Semarang, I built a strong foundation in electrical engineering. My coursework focused on basic electrical installations, aircraft electrical systems, and aircraft control systems, giving me practical knowledge of both general wiring and specialized aviation electronics."
+    }
+]

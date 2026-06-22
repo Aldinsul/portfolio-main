@@ -1,0 +1,37 @@
+[
+   {
+        "company": "Shopeefood Indonesia",
+        "logo": "images/shopeefood-logo.png",
+        "position": "Part-Time Shopeefood Driver",
+        "year": "2026 - Present",
+        "description": "As a part-time driver, I deliver food orders safely and on time to customers. I communicate clearly with both restaurant partners and customers to ensure every order is correct. This job helps me build strong time management and navigation skills, as I efficiently balance my delivery schedules across the city with my university studies."
+    },
+    {
+        "company": "Ikatan Mahasiswa Muslimpreneur Indonesia (IMMI) Semarang",
+        "logo": "images/immi-smg.png",
+        "position": "Head of Media and Information Division",
+        "year": "2024 - Present",
+        "description": "As the head of the division, I lead and manage the media team to handle all digital content. My main responsibilities include managing IMMI Semarang's official Instagram account, creating attractive visual designs for posts, and archiving all media documentation. I ensure our social media stays active, informative, and engaging for our community."
+    },
+    {
+        "company": "Karangtaruna RW13 Kelurahan Bringin-Semarang",
+        "logo": "images/kartar-logo.jpg",
+        "position": "Organization Secretary",
+        "year": "2023 - Present",
+        "description": "As the secretary, I work closely with the chairman to run our youth programs. I learned how to communicate and negotiate directly with local community leaders (RT, RW, and Kelurahan) to support our activities. I also helped organize big community events, such as the RW-level Independence Day celebration on August 17th, while keeping all the organization's administration neat and organized."
+    },
+    {
+        "company": "Bengpuspenerbad (TNI AD)",
+		"logo":"images/bengpus-logo.png",
+        "position": "Internship",
+        "year": "2023 - 2023",
+        "description": "Completed a vocational internship focusing on the electrical systems of BELL-412 and BO-105 helicopters. Gained practical, hands-on experience in military aviation maintenance, specifically in executing proper maintenance and testing procedures for helicopter batteries."
+    },
+    {
+        "company": "Skadron 31/Serbu (TNI AD)",
+		"logo":"images/Dron_31.png",
+        "position": "Internship",
+        "year": "2022 - 2022",
+        "description": "Completed a vocational internship studying the fundamentals of electrical systems in Russian-made MI-35P and MI-17 helicopters. Acquired comprehensive knowledge of Russian aircraft maintenance procedures and gained hands-on experience in electrical system diagnostics, maintenance protocols, and troubleshooting techniques specific to Russian military aviation standards."
+    }
+]
