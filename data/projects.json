@@ -16,7 +16,7 @@
         "partner": "Group project",
         "role": "Electronic Designer",
         "description": "Designed and built a functional gas detection system using an Arduino Nano, an MQ-135 gas sensor, a 16x2 LCD display, and LED indicators for real-time air quality monitoring. Developed to fulfill the final project requirements for the Microcontroller 1 course, this project served as a major milestone where I practically applied and learned Arduino programming (C/C++) and Assembly language for the very first time.",
-        "image": "images/gas-detector.png",
+        "image": "images/gas-detector.jpeg",
         "link": "#"
     },
     {
@@ -25,7 +25,7 @@
         "fund": "Rp150.000,- group project fund",
         "partner": "Group project",
         "role": "Project Manager",
-        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "description": "As the Project Manager, I directed the overall planning and execution of a dual-method water level monitoring system, coordinating closely with my teammate who handled the technical implementation. The project aimed to create a reliable monitoring tool using two distinct sensing methods: a digital HC-SR04 ultrasonic sensor for precise water height measurement, and an analog transistor-based sensor circuit to indicate discrete water status (low, medium, and high). I oversaw the workflow and ensured the seamless integration of both hardware systems into a centralized, real-time monitoring dashboard visualized through LabVIEW software.",
         "image": "images/analog-digital-water.jpeg",
         "link": "https://example.com/smart-home"
     },
@@ -35,7 +35,7 @@
         "fund": "Rp800.000,- Group project fund",
         "partner": "Group project",
         "role": "Head of electrical team",
-        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "description": "As the Head of the Electrical Team, I led the electrical design and integration for a stair-climbing robot engineered with a unique impact-driven climbing mechanism, allowing it to autonomously ascend by strategically bumping into steps. My primary responsibilities centered on the complete hardware wiring and power management. I successfully wired the six 12V 25GA370 DC motors to the ON/OFF relay modules, which acted as the main controllers driven by an ESP32. To ensure reliable and safe power delivery during the high-torque climbing process, I also custom-assembled a 2S2P battery pack fully integrated with a Battery Management System (BMS) for optimal voltage regulation and battery protection.",
         "image": "images/robot-icon.jpeg",
         "link": "https://example.com/smart-home"
     },
@@ -45,18 +45,18 @@
         "fund": "Rp1.000.000,- Group project fund",
         "partner": "Group project",
         "role": "PCB designer",
-        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
+        "description": "In this project, a Proportional-Integral-Derivative (PID) control system for water level management was developed as an educational module using Arduino Uno. As the PCB Designer, I was responsible for the end-to-end electronic hardware realization, starting from the schematic creation and PCB layout routing using EasyEDA software. The custom board was designed to integrate key components, including an Arduino Nano for VL6180X LiDAR sensor data acquisition, LM2596 step-down modules for power distribution, and an XY-MOS driver for water pump actuation. Furthermore, I executed the manual hardware fabrication process, which involved layout transfer, Ferric Chloride (FeCl3) etching, precision drilling, and component soldering. This custom circuitry successfully bridged the sensor reading module with the main PID controller, ensuring stable real-time data transmission and accurate actuator control.",
         "image": "images/pidwater.jpeg",
         "link": "https://example.com/smart-home"
     },
      {
         "title": "AC electricity Smart meter",
         "year": "2023",
-        "fund": "Rp300.000,- Group project fund",
+        "fund": "Rp400.000,- Group project fund",
         "partner": "Group project",
-        "role": "Project Manager",
-        "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
-        "image": "images/project2.png",
+        "role": "Project Leader",
+        "description": "Engineered an end-to-end AC power profiling tool integrating hardware and software. Programmed a Raspberry Pi Pico in MicroPython to acquire real-time electrical parameters (V, A, W, Wh) via Modbus RTU. Developed a local hardware interface with configurable over-power cutoff protection, and built a desktop GUI application using Tkinter and Matplotlib for live serial data streaming, graphical analysis, and data export.",
+        "image": "images/ac-electric-meter.png",
         "link": "https://example.com/smart-home"
     }
 ]

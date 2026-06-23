@@ -1,17 +1,19 @@
 // Load data from JSON files
 async function loadData() {
     try {
-        const [profileData, educationData, experienceData, projectsData] = await Promise.all([
+        const [profileData, educationData, experienceData, projectsData, certificatesData] = await Promise.all([
             fetch('data/profile.json').then(res => res.json()),
             fetch('data/education.json').then(res => res.json()),
             fetch('data/experience.json').then(res => res.json()),
-            fetch('data/projects.json').then(res => res.json())
+            fetch('data/projects.json').then(res => res.json()),
+            fetch('data/certificates.json').then(res => res.json())
         ]);
         
         renderProfile(profileData);
         renderEducation(educationData);
         renderExperience(experienceData);
         renderProjects(projectsData);
+        renderCertificates(certificatesData);
         
         // Set current year in footer
         document.getElementById('current-year').textContent = new Date().getFullYear();
@@ -137,6 +139,28 @@ function renderProjects(data) {
             </div>
         `;
         projectsGrid.appendChild(projectCard);
+    });
+}
+
+// Render Certificates Section
+function renderCertificates(data) {
+    const certificatesList = document.getElementById('certificates-list');
+    if (!certificatesList) return;
+
+    data.forEach(cert => {
+        const certItem = document.createElement('div');
+        certItem.className = 'certificate-item';
+        const iconClass = cert.icon || 'fas fa-award';
+        certItem.innerHTML = `
+            <div class="certificate-icon"><i class="${iconClass}"></i></div>
+            <div class="certificate-info">
+                <h3>${cert.title}</h3>
+                <p class="issuer">${cert.issuer} • ${cert.year || ''}</p>
+                ${cert.link ? `<a href="${cert.link}" class="certificate-link" target="_blank" rel="noopener noreferrer">View Certificate <i class="fas fa-external-link-alt"></i></a>` : ''}
+            </div>
+        `;
+
+        certificatesList.appendChild(certItem);
     });
 }
 
