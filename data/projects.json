@@ -26,7 +26,7 @@
         "partner": "Group project",
         "role": "Project Manager",
         "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
-        "image": "images/project2.png",
+        "image": "images/analog-digital-water.jpeg",
         "link": "https://example.com/smart-home"
     },
     {
@@ -36,7 +36,7 @@
         "partner": "Group project",
         "role": "Head of electrical team",
         "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
-        "image": "images/project2.png",
+        "image": "images/robot-icon.jpeg",
         "link": "https://example.com/smart-home"
     },
      {
@@ -46,14 +46,14 @@
         "partner": "Group project",
         "role": "PCB designer",
         "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
-        "image": "images/project2.png",
+        "image": "images/pidwater.jpeg",
         "link": "https://example.com/smart-home"
     },
      {
         "title": "AC electricity Smart meter",
         "year": "2023",
-        "fund": "$100,000 Venture Capital",
-        "partner": "Tech Innovators Inc.",
+        "fund": "Rp300.000,- Group project fund",
+        "partner": "Group project",
         "role": "Project Manager",
         "description": "Led the development of a comprehensive smart home automation system integrating IoT devices for energy efficiency and security.",
         "image": "images/project2.png",
