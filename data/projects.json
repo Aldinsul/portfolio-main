@@ -7,7 +7,7 @@
         "role": "Solo Engineer",
         "description": "Developed a simple 2D game using the Godot Engine, focusing on core gameplay mechanics, character movement, and basic collision detection. This project allowed me to explore game development concepts, including scene management, scripting in GDScript, and implementing user input handling.",
         "image": "images/game-godot.png",
-        "link": "#"
+        "link": "https://github.com/Aldinsul/BelajarGamePlatformer"
     },
     {
         "title": "Joule Thief Circuit",
