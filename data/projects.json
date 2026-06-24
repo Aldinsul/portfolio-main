@@ -1,5 +1,15 @@
 [
     {
+        "title": "Godot Test Game",
+        "year": "2024",
+        "fund": "free funded",
+        "partner": "individual project",
+        "role": "Solo Engineer",
+        "description": "Developed a simple 2D game using the Godot Engine, focusing on core gameplay mechanics, character movement, and basic collision detection. This project allowed me to explore game development concepts, including scene management, scripting in GDScript, and implementing user input handling.",
+        "image": "images/game-godot.png",
+        "link": "#"
+    },
+    {
         "title": "Joule Thief Circuit",
         "year": "2023",
         "fund": "free funded",
